@@ -451,7 +451,7 @@ module.exports = function (options) {
           Scrollspy: "exports-loader?Scrollspy!bootstrap/js/dist/scrollspy",
           Tab: "exports-loader?Tab!bootstrap/js/dist/tab",
           Util: "exports-loader?Util!bootstrap/js/dist/util"
-        })
+        }),
 
       /**
        * Plugin: InlineManifestWebpackPlugin
